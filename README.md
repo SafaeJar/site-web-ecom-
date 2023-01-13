@@ -1,0 +1,6 @@
+# site-web-ecom-
+un site web e-commerce  qui permet de:
+mettre en place les articles , catégories, affichage liste , affichage       fiche article ...
+Acces administrateur pour ajouter/supprimer des articles, des   catégories, des utilisateurs..
+gestion paniers clients.
+acces gestionnaire pour visualiser les commandes, les valider ...
